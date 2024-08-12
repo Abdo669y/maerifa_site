@@ -713,7 +713,7 @@ ul.list-checked li i {
   padding: 8px 15px;
   text-decoration: none;
   color: #ffffff;
-  display: flex; block;
+  display: flex block;
 }
 .apple-button .slider-button-icon {
   padding: 0px 3px 6px 20px;
